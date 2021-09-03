@@ -1,0 +1,1 @@
+//criar script em javascrip que apaga meus emails nao lidos antigos 
